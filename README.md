@@ -2,7 +2,7 @@
 
 This project helps students discover career paths based on their interests and academic strengths using language models and semantic search.
 
-# It will do
+## It will do
 
 1.Asks users about their interests and strong subjects.
 2.Recommends 3 careers that match them.
