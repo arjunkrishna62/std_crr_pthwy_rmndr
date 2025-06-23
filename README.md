@@ -4,10 +4,10 @@ This project helps students discover career paths based on their interests and a
 
 ## It will do
 
-Asks users about their **interests** and **strong subjects**.
-Recommends **3 careers** that match them.
-Supports both **OpenAI-based LLM** and **offline fallback logic**.
-Lets users explore **more career options** interactively.
+1.Asks users about their **interests* and **strong subjects**.
+2.Recommends **3 careers** that match them.
+3.Supports both **OpenAI-based LLM** and **offline fallback logic**.
+4.Lets users explore **more career options** interactively.
 # setup
 
 ### 1. Clone the Repo
